@@ -14,7 +14,7 @@ We also intend to **[collect and provide]({% link get-help.md %}) some basic res
 
 We believe, creating this common ground of everyone’s inalienable rights and freedoms being respected (in the digital space not less than elsewhere), is the only way for the humanity where woman are valued equally to man, and everyone in between. So we can all equally enjoy our lives, free from systemic violence; supported by a sustainable\*\*\*\*\* free software ecosystem.
 
-`#digital-dignity` `#coding-with-dignity`
+`#digital-dignity` `#coding-with-dignity` `#encoding-dignity`
 
 ---
 You may also want to [read and sign]({% link open-letter.md %}) our Open Letter.
