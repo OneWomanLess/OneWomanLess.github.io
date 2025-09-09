@@ -40,7 +40,7 @@ _If you are a lawyer you are welcome to take the case. Mariha can provide all th
 
 As a compansation of harms (proposition):
 
-- no contact with Mariha from [mrkvon](https://mrkvon.org/blog/announcing-solidcouch/), who is a manipulator and (probably unintentional/unconscious) blackmailer (uses blackmailing to get what he wants, even if it's not his). Maybe a recommendation to see(k) a professional psychological help.
+- no contact with Mariha from [@mrkvon](https://github.com/mrkvon), for good enough reasons (removed from here to not get derailed by relatively insignificant matters). An obligation to state the origins of the project and that it has been misappropriated from OHN under [@mariha](https://github.com/mariha)'s administration, whenever presenting the project, including on its own website.
 
 - actions towards gender equality in free software development, in particular women anti-discrimination
 
